@@ -1,0 +1,27 @@
+{
+  "name": "ecommerce-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teerapat6509650468/ecommerce-lab-6509650468.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Teerapat6509650468/ecommerce-lab-6509650468/issues"
+  },
+  "homepage": "https://github.com/Teerapat6509650468/ecommerce-lab-6509650468#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
